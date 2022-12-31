@@ -1,0 +1,43 @@
+body{
+    background-color: rgba(24, 6, 6, 0.566);
+    color: rgb(7, 43, 43);
+    font-size: 15pt;
+    font-family: 'Diplomata SC';
+    background-image: url('https://dsm04pap003files.storage.live.com/y4mgcmhRscJmJZ7AuU8hT_zp4MSzIrKXjBXtYY6jAXO3OfE_Z8EQg6bvjtIHFZs6Zl81Jsd_1VmzFnSMgK5KGJGNdf-yKdvRA8p_dMgdca_-ufh4NB938a_eTSbaE6PW1nlZCqaXaIllD7dHk2Un7eUk-gxJdEte4Pw34SGB4BPOPNVxxevucxs9Lh4kj6LMgZP4SkOW_rH0BZInCnc4pXTJQ/background.jpg.jpg?psid=1&width=1288&height=859');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    text-align: center;
+    
+}
+h1{
+    text-shadow: 1px 1px;
+}
+
+header{
+    text-align: center;
+}
+
+section{
+    padding: 11px;
+    width: 500px;
+    height: 400px;
+    font-size: 16pt;
+    border-radius: 10px;
+    background-color: rgba(205, 205, 44, 0.595);
+    margin: auto;
+    box-shadow: 2px 3px 2px;
+
+}
+
+input{
+    font-size: 10pt;
+    font-family: 'Diplomata SC';
+    border-radius: 5px;
+
+}
+
+footer{
+    text-align: center;
+    font-style: italic;
+}
